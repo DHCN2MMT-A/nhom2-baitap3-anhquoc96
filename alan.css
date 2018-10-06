@@ -1,0 +1,104 @@
+nav ul{
+	list-style-type: none;
+  
+  float:right;
+}
+nav	li{
+	float: left;
+	list-style: none; 
+
+}
+
+body{
+	text-align: center;
+	background: #00FFFF;
+}
+h1{
+	padding-top: 60px;
+}
+img{
+	width: 240px;
+	max-height: 350px;
+	border-radius: 80%;
+
+}
+p{
+	text-align: left;
+	width: 595px;
+	padding-left: 500px;
+	font-family:Calibri;
+	font-size: 14px;
+	font-weight: bold;
+
+}
+.interesting li{
+	float:left;
+	
+}
+.interesting ol{
+	padding-left: 513px;
+}
+iframe{
+	width: 560px;
+	height: 400px;
+	padding-right: 40px;
+}
+h1{
+	font-family: Comic Sans MS;
+	color:#0000DD;
+
+}
+.centermain {
+	font-weight: bold;
+	font-family:Times New Roman ;
+	font-size: 16px;
+}
+#EarlyLife{
+	font-family:Times New Roman ;
+	color:#0000DD;
+	text-decoration: underline;
+	font-size: 30px;
+
+}
+#Career{
+	font-family:Times New Roman ;
+	color:#0000DD;
+	text-decoration: underline;
+	font-size: 30px;
+}
+h2{
+	font-family:Times New Roman ;
+	color:#0000DD;
+	text-decoration: underline;
+	font-size: 30px;
+}
+#Honours{
+	color:#FF0000;
+}
+.bright{
+	color:#FF0000;
+
+}
+.spl-linka {
+    color: #FFF8DC;
+    padding : 5px ;
+    background-color:#8B8B83;
+    text-decoration: none;
+}
+.spl-linkb {
+    
+    padding: 5px;
+    background-color:#CC3300;
+    color: #FFF8DC;
+    text-decoration: none;
+}
+.interesting{
+	font-family: Segoe Print;
+	color:#0000DD;
+}
+h3{
+	font-family:Times New Roman ;
+	color:#0000DD;
+	text-decoration: underline;
+	font-size: 23px;
+}
